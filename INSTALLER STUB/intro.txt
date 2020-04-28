@@ -1,4 +1,5 @@
 Message:
 
 Greetings, Comrade General!
-Please standby while preparing to install Yuri's Revenge.
+
+Please standby while we prepare Yuri's Revenge Installer.
